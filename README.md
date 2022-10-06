@@ -14,13 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a master's student at the University of Southern California (USC). 👩🏻‍💻 I am studying Applied Data Science at USC's Viterbi School of Engineering.
+I am a master's student at the University of Southern California (USC)✌️. I am studying Applied Data Science at USC's Viterbi School of Engineering.
 
-Before coming to USC, I studied Mathematics at Santa Clara University, which is where I first developed interest in Data Science. I was first introduced to the imortance of data through courses such as Probability and Statistics, Cosmology, and Mathematical Finance. During that time, data Science as a field was developing at an exponential rate, and I wanted to see what it was all about! 📈💯
+
+Before coming to USC, I studied Mathematics at Santa Clara University 🐎, which is where I first developed interest in data science. I was first introduced to the imortance of data through courses such as Probability and Statistics, Cosmology, and Mathematical Finance. During that time, data science as a field was developing at an exponential rate, and I wanted to see what it was all about! 📈💯
+
+
+A little bit about me...
 
 - 🌱 I’m currently learning Machine Learning for Data Science and Predictive Analytics. I've previously took courses on Big Data, Data Management, and programming in Python!
-- 🌞 Over the summer of 2022, I worked at Intel as a Software Technical Consulting Engineer Intern. I got to leverage my skills in python to work on various interesting projects.
+- 👩🏻‍💻 Over the summer of 2022, I worked at Intel as a Software Technical Consulting Engineer Intern. I got to leverage my skills in python to work on various interesting projects.
 - ⚡ I am interested in statistics, data analytics, and databases and am looking for relevant opportunities!
+- 🌞 During my free time, I like to go to CorePower yoga, try new restaurants, go on hikes, or go for a drive (I finally got my license this year 😎)
+
 
 
 - 📫 How to reach me: 
