@@ -25,7 +25,7 @@ A little bit about me...
 - 🌱 I’m currently learning Machine Learning for Data Science and Predictive Analytics. I've previously took courses on Big Data, Data Management, and programming in Python!
 - 👩🏻‍💻 Over the summer of 2022, I worked at Intel as a Software Technical Consulting Engineer Intern. I got to leverage my skills in python to work on various interesting projects.
 - ⚡ I am interested in statistics, data analytics, and databases and am looking for relevant opportunities!
-- 🌞 During my free time, I like to go to CorePower yoga, try new restaurants, go on hikes, or go for a drive (I finally got my license this year 😎)
+- 🌞 During my free time, I like to go to CorePower yoga, try new restaurants, read about horoscopes, go on hikes, or go for a drive (I finally got my license this year 😎)
 
 
 
