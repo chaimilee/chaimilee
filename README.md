@@ -29,6 +29,7 @@ A little bit about me...
 
 
 
-- 📫 How to reach me: 
+
+📫 How to reach me: 
 email- chaimilee1@gmail.com
 linkedin- https://www.linkedin.com/in/chaimi-lee/
