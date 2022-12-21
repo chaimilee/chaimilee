@@ -31,7 +31,7 @@ A little bit about me...
 
 
 📫 How to reach me: 
-email- chaimilee1@gmail.com
-linkedin- https://www.linkedin.com/in/chaimi-lee/
+[email](mail to: chaimilee1@gmail.com)
+[linkedin](https://www.linkedin.com/in/chaimi-lee/)
 
 📚 resume-  [Chaimi_Lee_Resume.pdf](https://github.com/chaimilee/chaimilee/files/9728566/Chaimi_Lee_Resume.pdf)
