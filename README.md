@@ -22,7 +22,7 @@ Before coming to USC, I studied Mathematics at Santa Clara University 🐎, whic
 
 A little bit about me...
 
-- 🌱 I’m currently learning Data Mining and Database Systems. I've previously took courses on Machine Learning, Predictive Analytics, Big Data, Data Management, and programming in Python!
+- 🌱 I’m currently learning Data Mining and Research Methods and Analysis for User Studies. I've previously took courses on Machine Learning, Predictive Analytics, Big Data, Data Management, and programming in Python!
 - 👩🏻‍💻 Over the summer of 2022, I worked at Intel as a Software Technical Consulting Engineer Intern. I got to leverage my skills in python to work on various interesting projects.
 - ⚡ I am interested in statisticical/machine learning, data analysis, and databases and am looking for relevant opportunities!
 - 🌞 During my free time, I like to go to CorePower yoga, try new restaurants, read about horoscopes, go on hikes, or go for a drive (I finally got my license this year 😎)
