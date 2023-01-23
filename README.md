@@ -36,4 +36,4 @@ A little bit about me...
 [linkedin](https://www.linkedin.com/in/chaimi-lee/)
 [website](https://chaimilee-personal-website-chaimilee-2i0y1b.streamlit.app/)
 
-[📚 resume](https://github.com/chaimilee/chaimilee/blob/main/Chaimi_Lee_Resume.pdf)
+[📚 resume](file:///Users/chaimilee/Desktop/Chaimi_Lee_Resume.pdf)
